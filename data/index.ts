@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I build reliable automation frameworks for real-world projects.",
+    title: "I build reliable  and scalable automation frameworks for real-world projects.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -122,10 +122,10 @@ export const testimonials = [
   },
   {
     quote:
-      "From start to finish, Huzaif ensured clear communication and delivered beyond expectations. His ability to merge design with functionality makes him stand out as a developer.",
-    name: "Suleman Khan",
+      "From start to finish, Hisham ensured clear communication and delivered beyond expectations. His ability to merge QA Process within Development Cycle makes him stand out as a Test Engineer.",
+    name: "Ananya Mishra",
     // image:"/sk.webp",
-    title: "Director at Innovatech",
+    title: "Business Analyst",
   },
 ];
 
@@ -178,15 +178,15 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Manual Testing",
-    desc: "Built and optimized server-side applications and APIs with Node.js & Express, ensuring scalable and secure architecture.",
+    title: "Agentic AI & AI Testing",
+    desc: "Design, Build MCP Agents, and tested Agentic AI workflows using AI-assisted automation, focusing on response accuracy, decision paths, failure handling, and system reliability across complex user journeys.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Automation Testing",
-    desc: "Delivered scalable web applications by handling both frontend and backend development, ensuring seamless integration.",
+    desc: "Build and Maintained Scalable Automation Frameworks, using Selenium/Playwright with Python/JavaScript, integrated with CI/CD pipelines for efficient testing and deployment.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
@@ -200,8 +200,8 @@ export const workExperience = [
 
   {
     id: 4,
-    title: "Mobile Testing",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Quality Engineering & Release Assurance",
+    desc: "Owned end-to-end quality assurance including test strategy, regression optimization, release validation, and defect analysis to ensure stable, production-ready releases.ng features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
