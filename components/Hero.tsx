@@ -43,7 +43,7 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-90">
-            I ensure every application behaves exactly as expected.
+            AUTOMATION • AI-ASSISTED TESTING • QUALITY ENGINEERING
           </p>
 
           {/**
@@ -52,17 +52,17 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Tough on defects. Gentle with developers. Loyal to users."
+            words="AI-assisted automation. Reliable software delivery. Quality you can trust."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! My name is Hisham, an ISTQB Certified Test Engineer.
+            Hi, I'm Hisham — a QA Automation Engineer building intelligent testing systems and scalable quality frameworks for modern software.
           </p>
 
           <a href="#about">
             <MagicButton
-              title="Show my work"
+              title="View Automation Projects"
               icon={<FaLocationArrow />}
               position="right"
             />
