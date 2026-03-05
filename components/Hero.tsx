@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Hisham — a QA Automation Engineer building intelligent testing systems and scalable quality frameworks for modern software.
+            Hi, I&apos;m Hisham — a QA Automation Engineer building intelligent testing systems and scalable quality frameworks for modern software.
           </p>
 
           <a href="#about">
